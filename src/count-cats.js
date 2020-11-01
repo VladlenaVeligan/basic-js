@@ -9,7 +9,6 @@ module.exports = function countCats(arr) {
             else {
                 return sum
             }
-
     });
     return sum;
 }
